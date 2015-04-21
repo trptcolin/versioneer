@@ -9,7 +9,7 @@ to build your app's jar.
 Add this to your `project.clj`:
 
 ```clojure
-[trptcolin/versioneer "0.1.0"]
+[trptcolin/versioneer "0.2.0"]
 ```
 
 Then, in your code, do something like this, where `GROUP-ID` and `ARTIFACT-ID`
@@ -30,6 +30,6 @@ to [Phil Hagelberg](https://github.com/technomancy) for lighting the way.
 
 ## License
 
-Copyright © 2012 Colin Jones
+Copyright © 2015 Colin Jones
 
 Distributed under the Eclipse Public License, the same as Clojure.
